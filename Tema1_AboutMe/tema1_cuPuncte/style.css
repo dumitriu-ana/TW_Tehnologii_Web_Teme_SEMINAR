@@ -1,0 +1,112 @@
+.nume
+{
+    color:#D6EFC7;
+  font-size: 150px;
+}
+
+.carousel-caption p
+{
+    font-size: 40px;
+}
+
+#doi
+{
+    color: #064635;
+    text-align: center;
+    background-color: #E9C891;
+    
+}
+
+
+#trei
+{
+    color: #D6EFC7;
+    text-align: center;
+    background-color: #184D47;
+    padding: 10px;
+
+}
+
+#trei h2
+{
+    color: #D6EFC7;
+}
+#trei img
+{
+    width: 150px;
+}
+
+#punctS3
+{
+    color: #E9C891;
+}
+
+#patru
+{
+    color: #2f89ef;
+    text-align: center;
+    background-color: #D06224;
+    padding: 100px;
+}
+#patru button
+{
+    padding: 15px;
+    color: #064635;
+    font-size: 25px;
+}
+#cinci
+{
+    color: #D6EFC7;
+    text-align: center;
+    background-color: #064635;
+    padding: 40px;
+
+}   
+#cinci a
+{
+    color: #D6EFC7;
+}
+
+
+h1
+{
+    color: #e0f878;
+    font-family: 'Caveat', cursive;
+}
+h1:hover
+{
+    color: #fbfdf4;
+
+}
+
+h2
+{
+    color: #064635;
+    padding-top: 5vh;
+    font-family: 'Cairo', sans-serif;
+
+}
+
+.cutie
+{
+    text-align: center;
+    background-color: #FAF7F0;
+    height: 450px;
+}
+
+.sectiune
+{
+    height: 450px;
+}
+
+.imagine
+{
+    border-radius: 50%;
+    max-width: 16vw;
+    margin: 20px;
+}
+.imagine:hover
+{
+    max-width: 20vh;
+    
+}
